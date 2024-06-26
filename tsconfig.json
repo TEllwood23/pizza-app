@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "outFile": "index.js",
+    "lib": ["es2017", "dom"]
+  },
+  "include": ["index.ts"]
+}
